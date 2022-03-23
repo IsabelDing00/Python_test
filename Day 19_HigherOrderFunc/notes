@@ -1,0 +1,3 @@
+--1. HigherOrderFunction: one function has another func as its paramater
+    def addTwoNums():
+    def calculate(1,2, addTwoNums):
